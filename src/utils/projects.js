@@ -27,7 +27,7 @@ const data = [
         github: "https://github.com/arpitnakranii/e-commerce",
         image: eCom,
         slug: "e-commerce-api",
-        description: "This is a Cart Management System made using SvelteKit and Tailwind css with the help of FakeStoreAPI. it has two versions one with sveltekit and another with NextJS.",
+        description: "An e-commerce API is a set of protocols that enables software applications to communicate for managing online transactions, product listings, user accounts, and order processing. It facilitates seamless integration with various platforms and services, enhancing operational efficiency in e-commerce businesses.",
         tech: ['Node js', 'Anodis Js', 'Stripe Gatway', 'JS', 'Mongo DB']
     },
     {
@@ -37,7 +37,7 @@ const data = [
         github: "https://github.com/arpitnakranii/todo_list",
         image: toDO,
         slug: "to-do-list",
-        description: "This is a Cart Management System made using SvelteKit and Tailwind css with the help of FakeStoreAPI. it has two versions one with sveltekit and another with NextJS.",
+        description: "A to-do list API is a set of protocols that allows applications to create, read, update, and delete tasks in a task management system. It facilitates seamless integration of task management features into applications, enabling users to organize and prioritize their tasks efficiently.",
         tech: ['Node js', 'Anodis Js', 'Stripe Gatway', 'JS', 'Mongo DB']
     }
 ]
