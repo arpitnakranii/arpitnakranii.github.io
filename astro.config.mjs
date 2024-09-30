@@ -11,7 +11,7 @@ import playformCompress from "@playform/compress";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://www.rohitk06.site",
+  site: "https://arpitnakranii.github.io",
   prefetch: true,
   markdown: {
     ...markdownConfig
