@@ -41,7 +41,7 @@ const data = [
         image: toDO,
         slug: "to-do-list",
         description: "A to-do list API is a set of protocols that allows applications to create, read, update, and delete tasks in a task management system. It facilitates seamless integration of task management features into applications, enabling users to organize and prioritize their tasks efficiently.",
-        tech: ['Node js', 'Anodis Js', 'Stripe Gatway', 'JS', 'Mongo DB']
+        tech: ['Node js', 'Anodis Js', 'JS', 'Mongo DB']
     },{
         name: "Fairy Tails",
         type: "Mobile Game",
@@ -50,7 +50,7 @@ const data = [
         image: Fairy,
         slug: "fairy-tails",
         description: `Merge & Grow! Drag & merge identical pots to evolve them! Watch plants grow into amazing designs  Earn & Upgrade!  Use coins & cash to buy new pots & speed up growth!  Boost Progress!  Complete tasks, claim daily rewards, & use power-ups ! Expand Your Garden!  Add more pots & unlock rare designs ! Merge your way to the ULTIMATE plant! `,
-        tech: ['Firebase', 'Unity', 'C#', 'REST APIs', 'Payment Systems']
+        tech: ['Firebase', 'Unity 3D', 'C#', 'REST APIs', 'Payment Systems']
     },{
         name: "Property Selling",
         type: "Website",
@@ -73,7 +73,7 @@ options (e.g., red, green, blue). Players place their bets on a specific colour,
 their prediction matches the result, they win a prize based on the odds. These 
 games are often fast-paced and are popular on gaming or betting platforms for their 
 ease of play and quick results.`,
-        tech: ['Socket.io', 'REST APIs', 'WebGL', ' Firebase', 'Game Development','Unity','C#']
+        tech: ['Socket.io', 'REST APIs', 'WebGL', ' Firebase', 'Game Development','Unity 3D','C#']
     }
 ]
 
