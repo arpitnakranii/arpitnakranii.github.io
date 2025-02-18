@@ -66,13 +66,13 @@ export default function IndexNav() {
                   <a onClick={() => isShow(false)} aria-label="Home" href="/">
                     Home
                   </a>
-                  <a
+                  {/* <a
                     onClick={() => isShow(false)}
                     aria-label="projects"
                     href="/projects"
                   >
                     Projects
-                  </a>
+                  </a> */}
                   <a
                     onClick={() => isShow(false)}
                     aria-label="about"
@@ -115,7 +115,7 @@ export default function IndexNav() {
                   >
                     Contact
                   </a> */}
-                  <a href="https://drive.google.com/file/d/1cHkZFmDevGl0-Nab8xaYkhLAvcUPZHo8/view?usp=sharing">Download CV</a>
+                  <a href="https://drive.google.com/file/d/1waZGl43LDPtG8EWmaZKnqjv_Xp6TwhRP/view?usp=drive_link">Download CV</a>
                 </ul>
               </div>
             </div>
