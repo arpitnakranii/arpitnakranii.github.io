@@ -11,6 +11,7 @@ import toDO from "../assets/images/to-do.jpg"
 import Fairy from "../assets/images/piclumen-1739883408825.png"
 import prop from "../assets/images/Screenshot 2025-02-18 133226.png"
 import colorPredi from "../assets/images/piclumen-1739858719992.png"
+import spinner from "../assets/images/piclumen-1740205916492.png"
 const data = [
     {
         name: "Picture To Word",
@@ -85,6 +86,15 @@ A To-Do List API is a set of protocols that enables applications to create ➕, 
 
 A Colour Prediction Game is an online betting or guessing game where players predict the outcome of a randomly chosen colour (e.g., red 🔴, green 🟢, blue 🔵). Players place bets 💵 on a specific colour—if their guess is correct, they win prizes 🎁 based on the odds! With fast-paced gameplay ⚡ and quick results ⏳, these games are a hit on gaming and betting platforms for their simplicity & thrill! 🎮🔥`,
         tech: ['Socket.io', 'REST APIs', 'WebGL', ' Firebase', 'Game Development','Unity 3D','C#']
+    },{
+        name: "Spin and Win",
+        type: "Mobile Game",
+        url: "https://drive.google.com/uc?export=download&id=1Rugc8BoNYoY9fHqfFwFoWPNyoMvSb4Gk",
+        github: "https://drive.google.com/uc?export=download&id=1Rugc8BoNYoY9fHqfFwFoWPNyoMvSb4Gk",
+        image: spinner,
+        slug: "color-prediction",
+        description: `🎉 Spin & Win 🌀 is a fun game where users spin a virtual wheel to win exciting prizes like discounts, cashback, or gifts! 🎁💸✨`,
+        tech: ['Firebase', 'Game Development','Unity 3D','C#','Google Ads']
     }
 ]
 
