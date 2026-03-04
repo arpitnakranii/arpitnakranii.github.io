@@ -29,7 +29,7 @@ const { Content, remarkPluginFrontmatter } = await entry.render();
   <main class="relative sm:w-5/6 w-11/12 mx-auto">
     <PageNav
       transition:persist
-      title={"/blog"}
+      title={entry.data.title}
       previousLink="/#projects"
       client:load
     />
